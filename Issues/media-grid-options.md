@@ -2,19 +2,19 @@
 
 Current view desktop:
 
-<img src="https://cldup.com/OFJGOovBlC.png” width=“800px” />
+![current-desktop](https://cldup.com/OFJGOovBlC.png)
 
 Proposed view desktop:
 
-<img src=“https://cldup.com/JNC9v6hTD4.png” width=“800px” />
+![proposed-desktop](https://cldup.com/JNC9v6hTD4.png)
 
 Current view mobile:
 
-<img src=“https://cldup.com/QEmaltv2Bq.png” width=“800px” />
+![current-mobile](https://cldup.com/QEmaltv2Bq.png)
 
 Proposed view mobile:
 
-<img src=“https://cldup.com/Wt3mC7ymSw.png” width=“800px” />
+![proposed-mobile](https://cldup.com/Wt3mC7ymSw.png)
 
 **Problem**: Users are presented with too many options. They can either insert media, create gallery, set featured image, insert from URL, or upload files. When opening the modal, the interface should be focused on what the user wants to do: select their media.
 
@@ -22,9 +22,9 @@ Proposed view mobile:
 
 **User selects 1 image**
 
-<img src=“https://cldup.com/GVyrqeSWSA.png”>
+![select 1 image desktop](https://cldup.com/GVyrqeSWSA.png)
 
-<img src=“https://cldup.com/kWPU1OuBPI.png”>
+![select 1 image mobile](https://cldup.com/kWPU1OuBPI.png)
 
 [wireframe](https://projects.invisionapp.com/share/QD2NHGDYB#/screens/72120163?maintainScrollPosition=true)
 
@@ -35,9 +35,9 @@ User selects 1 image and options are revealed for dealing with 1 image. These ar
 
 **User selects multiple images**
 
-<img src=“https://cldup.com/EOTab_LEng.png”>
+![select 2 image desktop](https://cldup.com/EOTab_LEng.png)
 
-<img src=“https://cldup.com/iK5SVbzQOH.png”>
+![select 2 image desktop](https://cldup.com/iK5SVbzQOH.png)
 
 [wireframe](https://projects.invisionapp.com/share/QD2NHGDYB#/screens/72120165?maintainScrollPosition=true)
 
