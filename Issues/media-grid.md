@@ -3,9 +3,7 @@
 
 + __[Users are presented with options they do not need, or cannot use.](https://github.com/ImageFlow/imageflow-plugin/blob/master/Issues/media-grid-options.md)__
 
-+ __Adding Files is hidden in a separate tab from selecting media.__
-
-  We should remove the 'Upload Files' tab and make the first item in the grid an 'Add Files' option. This can also include the 'Insert from URL' option.
++ __[Adding Files is hidden in a separate tab from selecting media.](https://github.com/ImageFlow/imageflow-plugin/blob/master/Issues/media-grid-upload.md)__
 
 + __Three-column library layout presents too much focus on library at all times and crowds screen for later steps.__
 
