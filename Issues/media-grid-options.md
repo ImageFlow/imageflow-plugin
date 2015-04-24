@@ -1,8 +1,8 @@
+# Media Grid: options
+
 **Problem**: Users are presented with too many options. They can either insert media, create gallery, set featured image, insert from URL, or upload files. When opening the modal, the interface should be focused on what the user wants to do: select their media.
 
 **Solution**: reduce user interface and reveal actions based on the user’s actions. This will make the UI intuitive to the task that the user wants to achieve. It will also guide their actions towards their goal. 
-
-# Media Grid: options
 
 Current view desktop:
 
