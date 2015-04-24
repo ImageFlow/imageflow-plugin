@@ -1,9 +1,7 @@
 
 ## Media Grid:
 
-+ __Users are presented with options they do not need, or cannot use.__
-
-  We should break up these options and focus the user on what they opened the modal to do: select their media. Actions should be contextual. Once a user selects multiple images, they should be presented with the option to create a gallery.
++ __[Users are presented with options they do not need, or cannot use.](https://github.com/ImageFlow/imageflow-plugin/blob/master/Issues/media-grid-options.md)__
 
 + __Adding Files is hidden in a separate tab from selecting media.__
 
