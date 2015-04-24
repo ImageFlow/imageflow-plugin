@@ -22,26 +22,26 @@ Proposed view mobile:
 
 **User selects 1 image**
 
+User selects 1 image and options are revealed for dealing with 1 image. These are:
+- insert
+- edit info
+- edit picture
+
 ![select 1 image desktop](https://cldup.com/GVyrqeSWSA.png)
 
 ![select 1 image mobile](https://cldup.com/kWPU1OuBPI.png)
 
 [wireframe](https://projects.invisionapp.com/share/QD2NHGDYB#/screens/72120163?maintainScrollPosition=true)
 
-User selects 1 image and options are revealed for dealing with 1 image. These are:
-- insert
-- edit info
-- edit picture
-
 **User selects multiple images**
+
+After user second image the create gallery button appears. 
 
 ![select 2 image desktop](https://cldup.com/EOTab_LEng.png)
 
 ![select 2 image desktop](https://cldup.com/iK5SVbzQOH.png)
 
 [wireframe](https://projects.invisionapp.com/share/QD2NHGDYB#/screens/72120165?maintainScrollPosition=true)
-
-After user second image the create gallery button appears. 
 
 ## Tasks
 
