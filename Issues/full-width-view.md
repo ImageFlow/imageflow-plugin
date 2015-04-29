@@ -12,7 +12,8 @@ Proposed view desktop:
 
 ![proposed-grid-view](https://dl.dropboxusercontent.com/u/26720862/wordpress/files2/mg1.png)
 
-Proposed 'full width' view desktop: (One picture is already selected, so user can take several actions: insert, edit info, edit picture, ...)
+Proposed 'full width' view desktop:
+(One picture is already selected, so user can take several actions: insert, edit info, edit picture, ...)
 
 ![proposed-full-width-view](https://dl.dropboxusercontent.com/u/26720862/wordpress/files2/fw1.png)
 
