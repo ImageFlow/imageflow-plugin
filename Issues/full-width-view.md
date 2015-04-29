@@ -35,7 +35,7 @@ To achieve the new screen:
 - create room for the new toggle
 - create new icons for "grid view/full width view"
 - work on a new view mode that allows the user see picture using all the available space
-- create controlers for right and left shift
+- create controllers for right and left shift
 As in "grid view":
 - user selects 1 image: reveal “insert”, “edit info”, and “edit image” and “[…]” buttons
 - user selects 2nd image: reveal additional “create gallery” button
