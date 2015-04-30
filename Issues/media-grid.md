@@ -15,12 +15,10 @@
 
 + __[Grid images are neither large enough to make detailed decisions, nor small enough to allow rapid library scanning.](https://github.com/ImageFlow/imageflow-plugin/blob/master/Issues/media-grid-image-size.md)__
 	
-+ __Multi-select in the grid is unclear on desktop, broken on mobile.(https://github.com/ImageFlow/imageflow-plugin/blob/master/Issues/media-grid-multiselect.md)__
++ __[Multi-select in the grid is unclear on desktop, broken on mobile.](https://github.com/ImageFlow/imageflow-plugin/blob/master/Issues/media-grid-multiselect.md)__
 
-+ __There is no clear path to edit an image - only a small link in the right sidebar(https://github.com/ImageFlow/imageflow-plugin/blob/master/Issues/media-grid-edit.md)__
++ __[There is no clear path to edit an image - only a small link in the right sidebar](https://github.com/ImageFlow/imageflow-plugin/blob/master/Issues/media-grid-edit.md)__
 
-+ __The media grid is not currently extensible by developers(https://github.com/ImageFlow/imageflow-plugin/blob/master/Issues/media-grid-extensible.md)__
-
-  A menu of 'more' options should be added for developers to hook other actions for media to. These can have context (media type, amount) and bubble up as needed.
++ __[The media modal is not currently extensible by developers](https://github.com/ImageFlow/imageflow-plugin/blob/master/Issues/media-grid-extensible.md)__
 
 ____
