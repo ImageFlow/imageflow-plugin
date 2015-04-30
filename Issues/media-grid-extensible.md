@@ -6,11 +6,11 @@
 
 Current view desktop:
 
-![current-desktop](https://www.dropbox.com/s/r4g1l7ydmkwpdun/Screen%20Shot%202015-04-30%20at%2012.46.35%20PM.png?dl=0)
+![current-desktop](https://www.dropbox.com/s/r4g1l7ydmkwpdun/Screen%20Shot%202015-04-30%20at%2012.46.35%20PM.png?dl=1)
 
 Proposed view desktop:
 
-![proposed-desktop](https://www.dropbox.com/s/may5xslc4vdlqkz/more-menu.jpg?dl=0)
+![proposed-desktop](https://www.dropbox.com/s/may5xslc4vdlqkz/more-menu.jpg?dl=1)
 
 Current view mobile:
 
@@ -18,7 +18,7 @@ Current view mobile:
 
 Proposed view mobile:
 
-![proposed-mobile](https://www.dropbox.com/s/ujr7qv2ms18qtb2/more-menu-mobile.jpg?dl=0)
+![proposed-mobile](https://www.dropbox.com/s/ujr7qv2ms18qtb2/more-menu-mobile.jpg?dl=1)
 
 ## Tasks
 
