@@ -24,9 +24,9 @@ Proposed view mobile:
 
 User toggles to full width image.
 
-![toggle large image desktop](https://www.dropbox.com/s/q9k8l8ypoxl4ors/Screen%20Shot%202015-04-30%20at%2012.22.58%20PM.png?dl=0)
+![toggle large image desktop](https://www.dropbox.com/s/q9k8l8ypoxl4ors/Screen%20Shot%202015-04-30%20at%2012.22.58%20PM.png?dl=1)
 
-![toggle large image mobile](https://www.dropbox.com/s/qkils534ckc8md4/Screen%20Shot%202015-04-30%20at%2012.22.49%20PM.png?dl=0)
+![toggle large image mobile](https://www.dropbox.com/s/qkils534ckc8md4/Screen%20Shot%202015-04-30%20at%2012.22.49%20PM.png?dl=1)
 
 [wireframe](https://projects.invisionapp.com/share/QD2NHGDYB#/screens/72120163?maintainScrollPosition=true)
 

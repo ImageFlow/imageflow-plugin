@@ -6,21 +6,21 @@
 
 Current view mobile:
 
-![current-mobile](https://www.dropbox.com/s/k3k49upyxv8zbm1/expand-details.jpg?dl=0)
+![current-mobile](https://www.dropbox.com/s/k3k49upyxv8zbm1/expand-details.jpg?dl=1)
 
 
-![proposed-mobile](https://www.dropbox.com/s/0zchr9dintcsc3p/Screen%20Shot%202015-04-30%20at%2012.04.15%20PM.png?dl=0)
+![proposed-mobile](https://www.dropbox.com/s/0zchr9dintcsc3p/Screen%20Shot%202015-04-30%20at%2012.04.15%20PM.png?dl=1)
 
 
 **Proposed View**
 
 User selects image on mobile
 
-![select image mobile](https://www.dropbox.com/s/0zchr9dintcsc3p/Screen%20Shot%202015-04-30%20at%2012.04.15%20PM.png?dl=0)
+![select image mobile](https://www.dropbox.com/s/0zchr9dintcsc3p/Screen%20Shot%202015-04-30%20at%2012.04.15%20PM.png?dl=1)
 
 User clicks 'Edit Info' Button
 
-![edit info mobile](https://www.dropbox.com/s/nlkgnee4560mgcx/Screen%20Shot%202015-04-30%20at%2012.04.58%20PM.png?dl=0)
+![edit info mobile](https://www.dropbox.com/s/nlkgnee4560mgcx/Screen%20Shot%202015-04-30%20at%2012.04.58%20PM.png?dl=1)
 
 [wireframe](https://projects.invisionapp.com/share/QD2NHGDYB#/screens/72120394?maintainScrollPosition=true)
 

@@ -6,17 +6,17 @@
 
 Current view desktop:
 
-![current-desktop](https://www.dropbox.com/s/00d1g8bnny3y5ec/Screen%20Shot%202015-04-30%20at%2011.32.18%20AM.png?dl=0)
+![current-desktop](https://www.dropbox.com/s/00d1g8bnny3y5ec/Screen%20Shot%202015-04-30%20at%2011.32.18%20AM.png?dl=1)
 
 Proposed view desktop:
 
-![proposed-desktop](https://www.dropbox.com/s/4hfs8j9gcpg5c2z/Screen%20Shot%202015-04-30%20at%2011.42.04%20AM.png?dl=0)
+![proposed-desktop](https://www.dropbox.com/s/4hfs8j9gcpg5c2z/Screen%20Shot%202015-04-30%20at%2011.42.04%20AM.png?dl=1)
 
 Current view mobile:
 
-![current-mobile](https://www.dropbox.com/s/nejf079ypu5eopa/Screen%20Shot%202015-04-30%20at%2011.44.05%20AM.png?dl=0)
+![current-mobile](https://www.dropbox.com/s/nejf079ypu5eopa/Screen%20Shot%202015-04-30%20at%2011.44.05%20AM.png?dl=1)
 
-![current-mobile-landscape](https://www.dropbox.com/s/fllacdxgh17gc3n/Screen%20Shot%202015-04-30%20at%2011.45.15%20AM.png?dl=0)
+![current-mobile-landscape](https://www.dropbox.com/s/fllacdxgh17gc3n/Screen%20Shot%202015-04-30%20at%2011.45.15%20AM.png?dl=1)
 
 Proposed view mobile:
 
@@ -26,11 +26,11 @@ Proposed view mobile:
 
 User selects 'Create Gallery', the media library is limited to images only, but this is largely invisible to the user. The grid looks largely the same.
 
-!['create-gallery'](https://www.dropbox.com/s/fdoy5ax0nf82lzm/Screen%20Shot%202015-04-30%20at%2011.53.21%20AM.png?dl=0)
+!['create-gallery'](https://www.dropbox.com/s/fdoy5ax0nf82lzm/Screen%20Shot%202015-04-30%20at%2011.53.21%20AM.png?dl=1)
 
 User can now select a single image and insert it into the post as a gallery, which makes no sense.
 
-![single-image-gallery](https://www.dropbox.com/s/be6qht3y2fcldww/Screen%20Shot%202015-04-30%20at%2011.53.34%20AM.png?dl=0)
+![single-image-gallery](https://www.dropbox.com/s/be6qht3y2fcldww/Screen%20Shot%202015-04-30%20at%2011.53.34%20AM.png?dl=1)
 
 
 **Proposed View: User selects multiple images**
