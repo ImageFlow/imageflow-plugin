@@ -24,6 +24,14 @@ In the current version, users needs to click to see the cropping area. In propos
 
 Current view desktop:
 
+![current-desktop](https://dl.dropboxusercontent.com/u/26720862/wordpress/files2/ec1.png)
+
+Current view desktop after clicking:
+
+![current-desktop](https://dl.dropboxusercontent.com/u/26720862/wordpress/files2/ec3.png)
+
+Current view desktop after clicking and dragging:
+
 ![current-desktop](https://dl.dropboxusercontent.com/u/26720862/wordpress/files2/ec2.png)
 
 Proposed view desktop:
