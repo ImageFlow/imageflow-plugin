@@ -20,5 +20,6 @@ class Image_Flow_Plugin {
 	public function wp_enqueue_media() {
 		$dir = dirname( __FILE__ );
 		wp_enqueue_style( 'image-flow-css', plugins_url( 'css/image-flow.css', $dir ) );
+		wp_enqueue_script( 'image-flow-js', plugins_url( 'js/image-flow.js', $dir ), array( 'media-views' ), '', true );
 	}
 }

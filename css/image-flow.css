@@ -35,3 +35,21 @@
 	-webkit-box-shadow: none;
 	box-shadow: none;
 }
+
+.image-flow-att-toggle {
+	float: right;
+}
+
+.wp-core-ui .image-flow-attachments-full {
+	overflow: hidden;
+}
+
+.wp-core-ui .image-flow-attachments-full .attachment {
+	width: 100%;
+	float: none;
+	box-sizing: inherit;
+}
+
+.wp-core-ui .image-flow-attachments-full .attachment-preview:before {
+	padding-top: 0;
+}
