@@ -1,0 +1,37 @@
+.wp-core-ui .attachment .landscape img {
+	max-width: 100%;
+	width: auto;
+	height: auto;
+}
+
+.wp-core-ui .attachment .portrait img {
+	max-height: 100%;
+	width: auto;
+	height: auto;
+}
+
+.wp-core-ui .attachment-preview {
+/*	-webkit-box-shadow:
+		inset 0 0 15px rgba( 0, 0, 0, 0.1 ),
+		inset 0 0 0 1px rgba( 0, 0, 0, 0.05 );
+	box-shadow:
+		inset 0 0 15px rgba( 0, 0, 0, 0.1 ),
+		inset 0 0 0 1px rgba( 0, 0, 0, 0.05 );*/
+	-webkit-box-shadow: none;
+	box-shadow: none;
+	background: transparent;
+}
+
+.wp-core-ui .attachment .thumbnail:after {
+/*	-webkit-box-shadow: inset 0 0 0 1px rgba( 0, 0, 0, 0.1 );
+	box-shadow: inset 0 0 0 1px rgba( 0, 0, 0, 0.1 );*/
+	-webkit-box-shadow: none;
+	box-shadow: none;
+}
+
+.wp-core-ui .attachment .filename {
+/*	 -webkit-box-shadow: inset 0 0 0 1px rgba( 0, 0, 0, 0.15 );
+	 box-shadow: inset 0 0 0 1px rgba( 0, 0, 0, 0.15 ); */
+	-webkit-box-shadow: none;
+	box-shadow: none;
+}
